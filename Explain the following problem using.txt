@@ -1,0 +1,78 @@
+Explain the following problem using a clear step-by-step DSA thinking framework.
+Use Java for all code examples.
+
+Problem Statement:
+<PASTE PROBLEM HERE>
+
+----------------------------------
+Required Explanation Format
+----------------------------------
+
+1️⃣ Understanding:
+- Rephrase the problem in simple words
+- Mention constraints and what is being asked
+
+2️⃣ Key Observations:
+- Important patterns or rules
+- Edge cases
+- Constraints that affect performance
+
+----------------------------------
+3️⃣ Brute Force Approach
+----------------------------------
+
+Brute Force:
+- Approach:
+  - Explain the naive idea
+  - Why this approach works logically
+
+- Java Code:
+  (Provide clean, readable Java code)
+
+- Time Complexity:
+- Space Complexity:
+
+- Why it fails:
+  - Explain performance issues
+  - Mention constraint violations (TLE, memory, etc.)
+
+----------------------------------
+4️⃣ Optimization Thinking
+----------------------------------
+
+Optimization Idea:
+- What repeats?
+- What unnecessary work is being done?
+- What can be cached or reduced?
+- Which DSA pattern applies?
+  (e.g., Hashing, Two Pointers, Sliding Window, DP, Greedy, Binary Search)
+
+----------------------------------
+5️⃣ Final Optimized Approach
+----------------------------------
+
+Final Approach:
+- Pattern used:
+- Key steps:
+  1.
+  2.
+  3.
+
+- Java Code:
+  (Provide optimized Java solution)
+
+----------------------------------
+6️⃣ Complexity Analysis
+----------------------------------
+
+Time Complexity:
+- Explain why
+
+Space Complexity:
+- Explain why
+
+----------------------------------
+7️⃣ Key Insight
+----------------------------------
+
+- 1–2 lines summarizing the core idea that makes the solution optimal
